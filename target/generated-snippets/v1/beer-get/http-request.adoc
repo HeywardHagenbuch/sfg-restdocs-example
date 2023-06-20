@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+GET /api/v1/beer/3a55b648-6b47-43ba-a840-63e601346d75?iscold=yes HTTP/1.1
+Accept: application/json
+Host: dev.springframework.guru:80
+
+----
